@@ -60,7 +60,7 @@
 	left: -1px;
 	width: 100%;
 	height:100%;
-	border-bottom: 4px solid #000;
+	border-bottom: 4px solid #fff;
 }
 
 .input__label--hoshi::after {
@@ -73,7 +73,7 @@
 }
 
 .input__label--hoshi-color-1::after {
-	border-color: rgb(0, 0, 0);
+	border-color: rgb(39, 118, 187);
 }
 
 .input__label--hoshi-color-2::after {
